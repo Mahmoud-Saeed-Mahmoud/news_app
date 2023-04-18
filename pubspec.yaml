@@ -1,0 +1,60 @@
+name: news_app
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  dio: ^5.1.1
+  flutter_riverpod: ^2.3.4
+  day_night_switcher: ^0.2.0+1
+  get_storage: ^2.1.1
+  path_provider: ^2.0.14
+  hive: ^2.2.3
+  crypto: ^3.0.2
+  hex: ^0.2.0
+  url_launcher: ^6.1.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+  icons_launcher: ^2.1.0
+  flutter_native_splash: ^2.2.19
+
+
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+icons_launcher:
+  image_path: 'assets/news_app_logo.png'
+  platforms:
+    android:
+      enable: true
+
+flutter_native_splash:
+  image: 'assets/newspaper_person.png'
+  fullscreen: true
+  android: true
+  color: '#A7727D'

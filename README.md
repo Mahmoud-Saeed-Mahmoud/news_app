@@ -9,15 +9,14 @@ The news app is created in Flutter using dio is designed to provide users with a
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-17-13-24-56-643_com.example.news_app.jpg)
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-17-13-24-56-643_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-46-519_com.example.news_app.jpg)
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-46-519_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-51-633_com.example.news_app.jpg)
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-51-633_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-55-386_com.example.news_app.jpg)
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-58-55-386_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-59-07-295_com.example.news_app.jpg)
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-59-07-295_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
 
-![App Screenshot](https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-59-22-363_com.example.news_app.jpg)
-
+<img src="https://github.com/Mahmoud-flutter-dev/news_app/blob/master/screenshots/Screenshot_2023-04-18-13-59-22-363_com.example.news_app.jpg" alt="app screenshot" width="300" height="200">
